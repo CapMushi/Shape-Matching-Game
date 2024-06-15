@@ -7,8 +7,8 @@ To run the game, you'll need to have a C++ compiler and the Windows API availabl
 
 Steps:
 1. Clone the repository:
-   git clone https://github.com/CapMushi/Candy-Crush.git
-   cd Candy-Crush
+   git clone https://github.com/CapMushi/shape-matching-game.git
+   cd shape-matching-game
 
 2. Compile the code:
    g++ -o game Bejewled.cpp help.h -lgdi32
