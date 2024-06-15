@@ -1,5 +1,5 @@
 SHAPE MATCHING GAME
-Description
+Description:
 This repository contains a Shape Matching Game implemented in C++. The game generates a board filled with different shapes and allows the player to match shapes in rows or columns within a given time limit. The score is updated based on successful matches.
 
 Installation
@@ -7,8 +7,8 @@ To run the game, you'll need to have a C++ compiler and the Windows API availabl
 
 Steps:
 1. Clone the repository:
-   git clone https://github.com/CapMushi/shape-matching-game.git
-   cd shape-matching-game
+   git clone https://github.com/CapMushi/Candy-Crush.git
+   cd Candy-Crush
 
 2. Compile the code:
    g++ -o game Bejewled.cpp help.h -lgdi32
